@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @alimusahaf114
+# 👋 Hi, I’m Musahaf Ali
 
 - 👀 I’m interested in Web Development, AI, and Blockchain technologies.
 - 🌱 I’m currently learning JavaScript, Generative AI, and Blockchain development.
