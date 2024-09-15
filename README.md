@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musahaf Ali</h1>
 <h3 align="center">A passionate Front-End Developer and JavaScript enthusiast</h3>
 
-<p align="left"> <img src="" alt="musahaf-ali" /> </p>
+
 
 - 🔭 I’m currently working on **React.js projects** and improving my skills with **JavaScript**.
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, CSS, Flexbox, Grid**.
 
-- 📫 How to reach me **musahafali123@example.com** (Feel free to customize this!)
+- 📫 How to reach me **musahafali43@gmail.com** 
 
 - ⚡ Fun fact: I love solving complex UI challenges and turning creative designs into responsive websites.
 
@@ -31,28 +31,19 @@
 
 ### 🌟 My Recent Projects:
 
-- 💻 **Calculator App with React.js**: A fully functional calculator that performs basic and advanced operations (square root, square, cube) using React.js hooks. [GitHub Link](#) *(Link to your repo here)*
+- 💻 **Calculator App with React.js**: A fully functional calculator that performs basic and advanced operations (square root, square, cube) using React.js hooks.https://github.com/alimusahaf114/React.js-Learning-files 
 
-- 📝 **Personal Portfolio Website**: Designed and developed my portfolio showcasing my skills, projects, and contact information. [GitHub Link](#) *(Link to your repo here)*
-
+- 📝 **Personal Portfolio Website**: Designed and developed my portfolio showcasing my skills, projects, and contact information. https://github.com/alimusahaf114/Portfolio-Website
 ---
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/musahaf-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/musahaf-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/musahaf-ali-2522b1265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/alimusahaf114" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=musahaf-ali&show_icons=true&theme=tokyonight" alt="musahaf-ali" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musahaf-ali&theme=tokyonight" alt="musahaf-ali" />
-</p>
 
 ---
 
