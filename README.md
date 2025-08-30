@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Musahaf Ali</h1>
-<h3 align="center">A passionate Front-End Developer and JavaScript enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Founder of Zamionic Forge | CS Educator</h3>
 
+---
 
-
-- 🔭 I’m currently working on **React.js projects** and improving my skills with **JavaScript**.
-
-- 🌱 I’m continuously learning about **advanced web technologies** like **React Hooks**, **Context API**, **CSS Grid/Flexbox**, and **Bootstrap**.
-
-- 👨‍💻 I’m interning and gaining experience in **real-world front-end projects** where I apply my knowledge of **HTML, CSS, JavaScript, React.js**, and **Responsive Design**.
-
-- 💬 Ask me about **JavaScript, React.js, CSS, Flexbox, Grid**.
-
-- 📫 How to reach me **musahafali43@gmail.com** 
-
-- ⚡ Fun fact: I love solving complex UI challenges and turning creative designs into responsive websites.
+- 🔭 Currently working on **MERN stack & Laravel projects** and building scalable applications.  
+- 🌱 Exploring **System Design, Cloud Solutions, and Scalable Architectures**.  
+- 👨‍💻 Founder of **[Zamionic Forge](#)** – a Software & Training Company dedicated to **developing tech solutions** and **teaching IT skills**.  
+- 👨‍🏫 With **6+ years of teaching experience**, I have trained hundreds of students in **C++, Java, Python, Data Structures, Web Development, and System Design**.  
+- 💬 Ask me about **MERN, Laravel, JavaScript, React.js, Node.js, PHP, Python, C++, Java, Data Structures, Algorithms & Teaching Roadmaps**.  
+- 📫 Reach me at **musahafali43@gmail.com**  
+- ⚡ Fun fact: I love **teaching & mentoring** as much as I enjoy **coding**.  
 
 ---
 
@@ -24,16 +20,27 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
+  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 ---
 
 ### 🌟 My Recent Projects:
 
-- 💻 **Calculator App with React.js**: A fully functional calculator that performs basic and advanced operations (square root, square, cube) using React.js hooks.https://github.com/alimusahaf114/React.js-Learning-files 
+- 💻 **Full Stack E-commerce Platform (MERN + Laravel)**: A scalable solution with authentication, cart, payments & admin dashboard.  
+- 📝 **Personal Portfolio Website**: A responsive portfolio showcasing my skills & achievements.  
+  🔗 [Portfolio Repo](https://github.com/alimusahaf114/Portfolio-Website)  
+- 🧮 **React.js Calculator App**: A calculator supporting basic and advanced operations.  
+  🔗 [Calculator Repo](https://github.com/alimusahaf114/React.js-Learning-files)  
 
-- 📝 **Personal Portfolio Website**: Designed and developed my portfolio showcasing my skills, projects, and contact information. https://github.com/alimusahaf114/Portfolio-Website
 ---
 
 ### 🔗 Connect with me:
@@ -44,11 +51,13 @@
 
 ---
 
+### 🏆 Achievements:
+- 🎓 Completed **BS Information Technology (4 Years)** with specialization in **System Design & Software Development**.  
+- 🚀 Founder of **Zamionic Forge** – A hub for **software development, tech solutions, and IT training**.  
+- 👨‍🏫 **6+ years of teaching experience** in **Programming, Data Structures, Algorithms, and Web Development**.  
+- 🔥 Expertise in **Full Stack Web Development (MERN + Laravel)** with real-world project experience.  
+- 🌍 Mentored and trained **hundreds of students** in their journey to become software developers.  
 
 ---
-
-### 🏆 Achievements:
-- 🔥 Completed **Ambassador Challenge: Dive into the Essence of C#** collection.
-- 🚀 Contributed to multiple **front-end development projects** during my internships.
 
 Thanks for stopping by! 😄
